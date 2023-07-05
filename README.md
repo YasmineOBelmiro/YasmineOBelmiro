@@ -1,8 +1,10 @@
-## Seja bem vindos(as) ao meu perfil!❤
+## Ola, meu nome é Yasmine e seja bem vindos(as) ao meu perfil!❤
 
  <div>
-   <a href="https://github.com/YasmineOBelmiro"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmineOBelmiro &show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <a href="https://beacons.ai/YasmineOBelmiro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineOBelmiro&layout=compact&langs_count=6&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmineOBelmiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </div>
 <div style="display: inline_block"><br>
