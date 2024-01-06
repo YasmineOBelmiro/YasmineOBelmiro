@@ -1,25 +1,30 @@
-## Ola, meu nome é Yasmine e seja bem vindos(as) ao meu perfil!❤
+## 🪐Yasmine Belmiro
 
- <div>
-   <a href="https://beacons.ai/YasmineOBelmiro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineOBelmiro&layout=compact&langs_count=6&theme=tokyonight"/>
+Meu nome é Yasmine, tenho 20 anos, moro em Goiás. Atualmente estou cursando Bacharelado em Sistema de Informação em um Instituto Federale sou apaixonada pelo Front-End. Ainda sou uma iniciante na área, mas estou sempre ansiosa para aprender mais.
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmineOBelmiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## 📞Conecte-se comigo
+Você pode entrar em contato comigo pelas seguintes redes:
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
- 
- <br>
- 
-  ### Sociais:
- 
-<div>
-  <a href="https://www.linkedin.com/in/yasmine-oliveira-belmiro-471612282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Instagram](https://img.shields.io/badge/-Instagram-240046?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thatskymine/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-240046?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//yasmine-oliveira-belmiro-471612282)
+[![Gmail](https://img.shields.io/badge/Gmail-240046?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devyasminebelmiro@gmail.com)
 
+## ⚔️Minhas habilidades
+Habilidades que estou aprimorando:
 
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-240046?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-240046?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-240046?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-240046?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-240046?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/java-240046?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## 📊GitHub Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YasmineOBelmiro&bg_color=240046&border_color=c8b6ff&title_color=b79ced&text_color=FFF)
+
+## 🖼️Meus projetos
+Alguns projetos que eu fiz como meu primeiro contato com o Front-End:
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YasmineOBelmiro&repo=angular-project&bg_color=240046&border_color=30A3DC&show_icons=true&icon_color=FFAFCC&title_color=b79ced&text_color=FFF)](https://github.com/YasmineOBelmiro/angular-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YasmineOBelmiro&repo=Shoper-Books&bg_color=240046&border_color=30A3DC&show_icons=true&icon_color=FFAFCC&title_color=b79ced&text_color=FFF)](https://github.com/YasmineOBelmiro/Shoper-Books)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YasmineOBelmiro&repo=Steven_Universe&bg_color=240046&border_color=30A3DC&show_icons=true&icon_color=FFAFCC&title_color=b79ced&text_color=FFF)](https://github.com/YasmineOBelmiro/Steven_Universe)
